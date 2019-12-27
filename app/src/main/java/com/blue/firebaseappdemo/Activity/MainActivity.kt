@@ -108,7 +108,7 @@ class MainActivity : BaseActivity(), View.OnClickListener {
 
 
         val userRegister = UserRegister()
-        userRegister.apiKey = "bXVrZXNoQG1hYXJ1amkuY29t"
+        userRegister.apiKey = ""
         userRegister.audienceId = randomInt
         userRegister.paramList = paramList
 
