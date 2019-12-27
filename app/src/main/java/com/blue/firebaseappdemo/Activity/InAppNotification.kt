@@ -31,7 +31,7 @@ class InAppNotification : BaseActivity() {
 
 
         audienceId=bitPreference!!.USERID
-        apiKey="bXVrZXNoQG1hYXJ1amkuY29t"
+        apiKey=""
 
         url = "https://inapp.cronberry.com/mobile-view?audienceId=" + audienceId + "&" + "api-key="+apiKey
         inApp.loadUrl(url)
