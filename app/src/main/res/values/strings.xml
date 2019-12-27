@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CronberryFirebaseDemo</string>
+    <string name="splash_text">Welcome To Cronberry</string>
+    <string name="app_demo">Cronberry App Demo</string>
+    <string name="submit">Submit</string>
+    <string name="inApp_String">Click on the notification icon to load InApp notification.</string>
+    <string name="inApp_toolbar">Inapp Notification</string>
+</resources>
